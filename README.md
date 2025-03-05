@@ -1,4 +1,4 @@
-To be used with obsidian.
+To be used with obsidian.md
 
 ## Credits (sources)
 - I didn't do anything but make them markdown/obsidian friendly, all the work comes from the very dedicated Elden Ring Community.
