@@ -15,3 +15,6 @@ https://www.reddit.com/r/Eldenring/comments/1dpao3j/shadow_of_the_erdtree_100_ch
 
 https://www.reddit.com/user/Zaraxeon/comments/1gxe4hn/elden_ring_100_checklist/
   - /u/Zaraxeon
+
+https://docs.google.com/spreadsheets/d/1RrL7_XIIQgtI84oAHSSWdHSnrAx4pY4rAC7UDbpgYlg/edit?gid=731847088#gid=731847088
+  - /u/GamationOnReddit
