@@ -361,7 +361,7 @@
 ---
 ## Endings
 - [ ] The Three Fingers' ending
-- [x] Ranni the Witch's ending
+- [ ] Ranni the Witch's ending
 - [ ] Fia's ending
 - [ ] Brother Corhyn/Goldmask's ending
 - [ ] Dung Eater's ending
